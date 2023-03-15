@@ -321,7 +321,7 @@ class HomePage extends StatelessWidget {
                               width: 10,
                             ),
                             Text(
-                              "Joe Dow",
+                              "James Deen",
                               style: TextStyle(fontSize: 20),
                             ),
                           ],
@@ -488,7 +488,7 @@ class HomePage extends StatelessWidget {
                               width: 10,
                             ),
                             Text(
-                              "Joe Dow",
+                              "Sam Oster",
                               style: TextStyle(fontSize: 20),
                             ),
                           ],

@@ -41,7 +41,7 @@ class OnboardingPage extends StatelessWidget {
                   Navigator.of(context).pushNamed(HomePage.routeName);
                 },
                 child: Text(
-                  "Create an Artist",
+                  "Get Started!",
                   style: TextStyle(fontSize: 18),
                 ),
               ),
