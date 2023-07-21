@@ -1,16 +1,4 @@
 # indicium
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Indicium, a revolutionary platform enabling creators and consumers to connect and generate value by leveraging shared social tokens representing ownership of content creator profiles, utilizing smart contracts to ensure secure and mutually agreeable transactions 
+- Technologies used: Flutter, Dart, Sonr SDK, Git, VS Code, Blockchain
